@@ -1,0 +1,6 @@
+c:\users\ymanabe\Source\Repos\ProgrammingNetFrameworkStudy\ProgrammingNetFrameworkStudy\bin\Debug\ProgrammingNetFrameworkStudy.exe.config
+c:\users\ymanabe\Source\Repos\ProgrammingNetFrameworkStudy\ProgrammingNetFrameworkStudy\bin\Debug\ProgrammingNetFrameworkStudy.exe
+c:\users\ymanabe\Source\Repos\ProgrammingNetFrameworkStudy\ProgrammingNetFrameworkStudy\bin\Debug\ProgrammingNetFrameworkStudy.pdb
+c:\users\ymanabe\Source\Repos\ProgrammingNetFrameworkStudy\ProgrammingNetFrameworkStudy\obj\Debug\ProgrammingNetFrameworkStudy.csprojResolveAssemblyReference.cache
+c:\users\ymanabe\Source\Repos\ProgrammingNetFrameworkStudy\ProgrammingNetFrameworkStudy\obj\Debug\ProgrammingNetFrameworkStudy.exe
+c:\users\ymanabe\Source\Repos\ProgrammingNetFrameworkStudy\ProgrammingNetFrameworkStudy\obj\Debug\ProgrammingNetFrameworkStudy.pdb
